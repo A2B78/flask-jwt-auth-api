@@ -1,0 +1,64 @@
+# Environment
+.env
+.env.local
+.env.*.local
+venv/
+.envrc
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+
+# Database
+*.db
+*.sqlite3
+/migrations/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Virtual Environment
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Byte-compiled
+*.pyc
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/launch.json
+
+# SQLAlchemy
+alembic.ini
+
+# Docker
+docker-compose.override.yml
+
+# Local development
+instance/
