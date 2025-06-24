@@ -1,18 +1,11 @@
 # Documentation Complète de l'Application Flask
 
 ![Dependencies](https://img.shields.io/librariesio/release/pypi/flask)
-![GitHub Release](https://img.shields.io/github/v/release/adolfo/flask-jwt-auth-api?include_prereleases)
-![Custom Badge](https://img.shields.io/badge/{{label}}-{{message}}-{{color}}?logo=flask)
 ![SQLAlchemy](https://img.shields.io/pypi/v/sqlalchemy?label=SQLAlchemy)
-![Flask Version](https://img.shields.io/github/pipenv/locked/dependency-version/adolfo/flask-jwt-auth-api/flask?color=green)
 ![Flask](https://img.shields.io/badge/Flask-2.3.2-green?logo=flask)
 ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blueviolet?logo=postgresql)
 ![JWT](https://img.shields.io/badge/JWT-v4.4.2-yellow)
-
-![CI](https://github.com/adolfo/flask-jwt-auth-api/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://img.shields.io/codecov/c/github/adolfo/flask-jwt-auth-api)
-![License](https://img.shields.io/github/license/adolfo/flask-jwt-auth-api)
 
 ## Table des Matières
 1. [Introduction](#introduction)
