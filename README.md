@@ -1,11 +1,18 @@
 # Documentation Complète de l'Application Flask
 
-![CI](https://github.com/votre-utilisateur/votre-repo/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://img.shields.io/codecov/c/github/A2B78/flask-jwt-auth-api)
-![License](https://img.shields.io/github/license/A2B78/flask-jwt-auth-api)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13%2B-blueviolet)
+![Dependencies](https://img.shields.io/librariesio/release/pypi/flask)
+![GitHub Release](https://img.shields.io/github/v/release/username/repo?include_prereleases)
+![Custom Badge](https://img.shields.io/badge/{{label}}-{{message}}-{{color}}?logo=flask)
+![SQLAlchemy](https://img.shields.io/pypi/v/sqlalchemy?label=SQLAlchemy)
+![Flask Version](https://img.shields.io/github/pipenv/locked/dependency-version/username/repo/flask?color=green)
+![Flask](https://img.shields.io/badge/Flask-2.3.2-green?logo=flask)
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blueviolet?logo=postgresql)
+![JWT](https://img.shields.io/badge/JWT-v4.4.2-yellow)
+
+![CI](https://github.com/username/repo/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://img.shields.io/codecov/c/github/username/repo)
+![License](https://img.shields.io/github/license/username/repo)
 
 ## Table des Matières
 1. [Introduction](#introduction)
