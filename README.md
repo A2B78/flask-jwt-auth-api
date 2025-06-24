@@ -1,5 +1,12 @@
 # Documentation Complète de l'Application Flask
 
+![CI](https://github.com/votre-utilisateur/votre-repo/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://img.shields.io/codecov/c/github/A2B78/flask-jwt-auth-api)
+![License](https://img.shields.io/github/license/A2B78/flask-jwt-auth-api)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13%2B-blueviolet)
+
 ## Table des Matières
 1. [Introduction](#introduction)
 2. [Structure du Projet](#structure-du-projet)
