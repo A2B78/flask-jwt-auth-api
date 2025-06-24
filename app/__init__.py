@@ -19,7 +19,7 @@ def create_app():
     db.init_app(app)
     jwt.init_app(app)
     limiter.init_app(app)
-    CORS(app, supports_credentials=True, resources={r"/api/*": {"origins": ["http://localhost:3000"]}})
+    CORS(app, supports_credentials=True, resources={r"/api/*": {"origins": ["https://tonfrontend.com"]}})
 
     from app.routes import auth, users
     app.register_blueprint(auth.bp)
